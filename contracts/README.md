@@ -1,0 +1,1 @@
+Contracts are auto-generated using the function "createWrapped" from Wormhole: https://docs.wormhole.com/wormhole/quick-start/tutorials/hello-token
