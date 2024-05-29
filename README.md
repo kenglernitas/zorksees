@@ -1,4 +1,4 @@
-# Zorksees Token Information
+# $ZORKSEES Token Information
 
 ## On Base
 
